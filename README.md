@@ -15,6 +15,8 @@ git clone https://github.com/BouzidiTheCoder/Hospital-Spring-App.git
 
 L'application utilise une base de données H2 en mémoire. Vous pouvez accéder à la console H2 pour consulter les données.
 
+![Config](https://github.com/BouzidiTheCoder/Hospital-Spring-App/assets/134173504/01639786-ab93-41fa-b1b5-f13f4774f0c8)
+
 ### Accès à la Console H2
 
 Pour accéder à la console H2, assurez-vous que l'application est en cours d'exécution, puis rendez-vous sur [http://localhost:8086/h2-console](http://localhost:8086/h2-console) dans votre navigateur web.
