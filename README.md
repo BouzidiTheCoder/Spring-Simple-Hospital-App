@@ -7,6 +7,29 @@
 
 ### Ce projet est une application de gestion d'hôpital développée en utilisant Spring Boot. Il permet de gérer les patients, les médecins, les rendez-vous et les consultations.
 
+## Fonctionnalités Principales
+
+1. **Gestion des Patients**: Permet d'ajouter, de modifier et de supprimer des informations sur les patients, y compris leur nom, leur date de naissance et leur état de santé.
+
+2. **Gestion des Médecins**: Permet d'enregistrer les informations des médecins, y compris leur nom, leur adresse e-mail et leur spécialité médicale.
+
+3. **Gestion des Rendez-vous**: Permet de planifier des rendez-vous entre les patients et les médecins à des dates spécifiques.
+
+4. **Gestion des Consultations**: Permet d'enregistrer les rapports de consultation associés à chaque rendez-vous.
+
+## Technologies Utilisées
+
+- **Spring Boot**: Framework Java pour la création d'applications web.
+- **Spring Data JPA**: Pour la gestion des données avec JPA et Hibernate.
+- **H2 Database**: Base de données en mémoire utilisée pour le développement et les tests.
+- **Lombok**: Bibliothèque Java pour la génération automatique de code.
+
+## Objectifs du Projet
+
+Le but de ce projet était de mettre en pratique les concepts clés de développement d'applications avec Spring Boot, notamment la création de modèles de données, la gestion des relations entre les entités, la création de services métier et la mise en place d'une API REST pour interagir avec l'application.
+
+Ce projet a également permis de renforcer les compétences en développement Java, en particulier dans le contexte du développement d'applications web et de la manipulation de bases de données relationnelles.
+
 ### Cloner ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 git clone https://github.com/BouzidiTheCoder/Hospital-Spring-App.git
