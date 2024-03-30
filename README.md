@@ -2,6 +2,9 @@
 
 ### Ce projet est réalisé dans le cadre de l'Activité Pratique N° 2 sur ORM JPA Hibernate Spring Data.
 
+![ClasseDiagramm](https://github.com/BouzidiTheCoder/Hospital-Spring-App/assets/134173504/7cffd612-7ddb-45db-84e8-07166dcdf485)
+
+
 ### Ce projet est une application de gestion d'hôpital développée en utilisant Spring Boot. Il permet de gérer les patients, les médecins, les rendez-vous et les consultations.
 
 ### Cloner ce dépôt sur votre machine locale en utilisant la commande suivante :
