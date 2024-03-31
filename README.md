@@ -38,7 +38,7 @@ git clone https://github.com/BouzidiTheCoder/Hospital-Spring-App.git
 
 L'application utilise une base de données H2 en mémoire. Vous pouvez accéder à la console H2 pour consulter les données.
 
-![Config](https://github.com/BouzidiTheCoder/Hospital-Spring-App/assets/134173504/01639786-ab93-41fa-b1b5-f13f4774f0c8)
+![Config](https://github.com/BouzidiTheCoder/Spring-Simple-Hospital-App/assets/134173504/01639786-ab93-41fa-b1b5-f13f4774f0c8)
 
 ### Accès à la Console H2
 
