@@ -1,4 +1,4 @@
-# Activité Pratique N° 2 : Système de Gestion d'Hôpital avec Spring Boot
+# Activité Pratique N° 2 : Système de Gestion d'Hôpital avec Spring Boot :
 
 ### Ce projet est réalisé dans le cadre de l'Activité Pratique N° 2 sur ORM JPA Hibernate Spring Data.
 
