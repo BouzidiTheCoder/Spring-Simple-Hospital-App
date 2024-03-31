@@ -17,7 +17,7 @@
 
 4. **Gestion des Consultations**: Permet d'enregistrer les rapports de consultation associés à chaque rendez-vous.
 
-## Technologies Utilisées
+## Technologies Utilisées :
 
 - **Spring Boot**: Framework Java pour la création d'applications web.
 - **Spring Data JPA**: Pour la gestion des données avec JPA et Hibernate.
